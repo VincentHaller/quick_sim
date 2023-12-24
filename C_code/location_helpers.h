@@ -32,3 +32,5 @@ void loc_matrix( int *matrix_loc,int l_dim,  int *dimensions, int location ){
     }
 
 }
+
+
